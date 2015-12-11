@@ -1,4 +1,4 @@
-# Guacamole
+# Guacamole "Guacamole Remote Desktop Gateway"
 Guacamole Install Script
 Installation Video -> https://www.youtube.com/watch?v=pZYuEYwBL5s
 You can download -> http://sourceforge.net/projects/guacamoleinstallscript/
