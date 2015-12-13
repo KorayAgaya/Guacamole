@@ -20,3 +20,10 @@ You can download -> http://sourceforge.net/projects/guacamoleinstallscript/
         ./guacamole-install-script.sh
         
 5- Follow the Install Wizard.
+
+6- Added below line  this file
+           vim /etc/guacamole/guacamole.properties
+           
+        # Properties used by BasicFileAuthanticationProvider
+        basic-user-mapping: /etc/guacamole/user-mapping.xml
+        
